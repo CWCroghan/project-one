@@ -11,4 +11,5 @@
 7. Convert Population, Lat & Long into numeric variables
 8. Drop rows with null values
 9. Verify there are no duplicate records
-10. Export the dataFrame to a csv file - /ProcessedData/500_City_cleaned.csv 
+10. Create a County Level FIPS to use as a foreign key
+11. Export the dataFrame to a csv file - /ProcessedData/500_City_cleaned.csv 
