@@ -1,6 +1,6 @@
 ﻿
-## Project Title
-### Environmental Pollution & Chronic Health Conditions: Uncovering the Connection
+
+## Environmental Pollution & Chronic Health Conditions: Uncovering the Connection
 
 
 ![Environmental Pollution & Chronic Health Conditions: Uncovering the Connection](https://github.com/CWCroghan/project-one/blob/Smita/Resources/slide_1.jpg)
