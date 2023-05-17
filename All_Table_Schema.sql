@@ -87,8 +87,8 @@ CREATE TABLE "air_quality" (
     "PM2.5_Max" double precision   NOT NULL,
     "Ozone_Exceptional" double precision   NOT NULL,
     "Ozone_ExceedCount" double precision  NOT NULL,
-    "Ozone_Max" double precision   NOT NULL,
-            )
+    "Ozone_Max" double precision   NOT NULL
+            
 );
 
 ALTER TABLE "500_City_Data" ADD CONSTRAINT "fk_500_City_Data_StateAbbr" FOREIGN KEY("StateAbbr")
