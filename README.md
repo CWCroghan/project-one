@@ -4,7 +4,7 @@
 
 ## Project Title
 
-  [enter link description here](https://github.com/CWCroghan/project-one/blob/Smita/Resources/slide_1.jpg)
+![enter image description here](%28https://github.com/CWCroghan/project-one/blob/Smita/Resources/slide_1.jpg%29)
 
 Environmental Pollution & Chronic Health Conditions: Uncovering the Connection
 
@@ -59,9 +59,13 @@ We utilized the below mentioned methods for data cleaning and preprocessing :
 
 3. Numpy
 For each dataset ,we had a specific approach to the based on dataset's  requirements. These approaches involved steps such as handling missing values, removing duplicates, standardizing data formats, and resolving inconsistencies. The links below provide information on each dataset cleaning approach.
+
 [500 City Data](https://github.com/CWCroghan/project-one/blob/main/dataProcessing/500_City.md)
+
 [Air Quality Data](https://github.com/CWCroghan/project-one/blob/main/dataProcessing/AirQuality.md)
+
 [Chronic Condition Spending](https://github.com/CWCroghan/project-one/blob/main/dataProcessing/ChronicConditionsSpending.md)
+
 [Superfund Sites Data](https://github.com/CWCroghan/project-one/blob/main/dataProcessing/Superfund.md)
 
 
