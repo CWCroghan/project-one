@@ -79,7 +79,6 @@ CREATE TABLE "Superfund" (
 );
 
 CREATE TABLE "air_quality" (
-    "
     "Place_TractID" VARCHAR(50)   NOT NULL,
     "SiteId" double precision   NOT NULL,
     "PM2.5_Exceptional" double precision   NOT NULL,
