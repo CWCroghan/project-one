@@ -4,7 +4,7 @@
 
 ## Project Title
 
-![enter image description here](%28https://github.com/CWCroghan/project-one/blob/Smita/Resources/slide_1.jpg%29)
+!(%28https://github.com/CWCroghan/project-one/blob/Smita/Resources/slide_1.jpg%29)
 
 Environmental Pollution & Chronic Health Conditions: Uncovering the Connection
 
