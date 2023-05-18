@@ -1,7 +1,6 @@
 ﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
-
 CREATE TABLE "500_City_Data" (
     "StateAbbr" VARCHAR   NOT NULL,
     "PlaceName" VARCHAR   NOT NULL,
@@ -46,39 +45,20 @@ CREATE TABLE "chronic_conditions_spending" (
 );
 
 CREATE TABLE "HousingPriceIndex" (
-    "ZipCode" INTEGER   NOT NULL,
-    "Year" DATE   NOT NULL,
-    "AnnualChange" FLOAT   NOT NULL,
-    "HPI" FLOAT   NOT NULL,
-    "HPI_1990_Base" FLOAT   NOT NULL,
-    "HPI_2000_Base" FLOAT   NOT NULL,
-    "tract" INTEGER   NOT NULL,
-    "usps_zip_pref" VARCHAR   NOT NULL,
-    "usps_zip_pref_st" VARCHAR   NOT NULL,
-    "res_ratio" FLOAT   NOT NULL,
-    "bus_ratio" FLOAT   NOT NULL,
-    "oth_ratio" FLOAT   NOT NULL,
-    "tot_ratio" FLOAT   NOT NULL,
-    CONSTRAINT "pk_HousingPriceIndex" PRIMARY KEY (
-        "ZipCode"
-     )
+    "tract" bigint   NOT NULL,
+      "HPI" FLOAT   NOT NULL
+
 );
 
 CREATE TABLE "Superfund" (
-    "Site_EPA_ID" INTEGER   NOT NULL,
-    "City" VARCHAR(50)   NOT NULL,
-    "County_FIPS" INTEGER   NOT NULL,
-    "County" VARCHAR(100)   NOT NULL,
-    "State" VARCHAR(50)   NOT NULL,
-    "StateAbbr" VARCHAR(3)   NOT NULL,
-    "Longitude" FLOAT   NOT NULL,
-    "Latitude" FLOAT   NOT NULL,
-    CONSTRAINT "pk_Superfund" PRIMARY KEY (
-        "Site_EPA_ID"
-     )
+    " Place_TractID" varvchar(50) NOT NULL, 
+    "city_state" varchar (100) NOT NULL, 
+    "SFCount" int NOT NULL 
+
 );
 
-CREATE TABLE "air_quality" (
+CREATE TABLE "Air_Quality" (
+    "
     "Place_TractID" VARCHAR(50)   NOT NULL,
     "SiteId" double precision   NOT NULL,
     "PM2.5_Exceptional" double precision   NOT NULL,
@@ -90,24 +70,6 @@ CREATE TABLE "air_quality" (
             
 );
 
-ALTER TABLE "500_City_Data" ADD CONSTRAINT "fk_500_City_Data_StateAbbr" FOREIGN KEY("StateAbbr")
-REFERENCES "Superfund" ("StateAbbr");
 
-ALTER TABLE "500_City_Data" ADD CONSTRAINT "fk_500_City_Data_PlaceName_PlaceFIPS_TractFIPS" FOREIGN KEY("PlaceName", "PlaceFIPS", "TractFIPS")
-REFERENCES "Air_Quality" ("PlaceName", "PlaceFIPS", "TractFIPS");
 
-ALTER TABLE "500_City_Data" ADD CONSTRAINT "fk_500_City_Data_CountyFIPS" FOREIGN KEY("CountyFIPS")
-REFERENCES "chronic_conditions_spending" ("CountyFIPS");
-
-ALTER TABLE "chronic_conditions_spending" ADD CONSTRAINT "fk_chronic_conditions_spending_State_County_CountyFIPS" FOREIGN KEY("State", "County", "CountyFIPS")
-REFERENCES "Superfund" ("State", "County", "County_FIPS");
-
-ALTER TABLE "chronic_conditions_spending" ADD CONSTRAINT "fk_chronic_conditions_spending_StateAbbr" FOREIGN KEY("StateAbbr")
-REFERENCES "HousingPriceIndex" ("usps_zip_pref_st");
-
-ALTER TABLE "HousingPriceIndex" ADD CONSTRAINT "fk_HousingPriceIndex_usps_zip_pref" FOREIGN KEY("usps_zip_pref")
-REFERENCES "Superfund" ("City");
-
-ALTER TABLE "Air_Quality" ADD CONSTRAINT "fk_Air_Quality_StateAbbr_CountyFIPS" FOREIGN KEY("StateAbbr", "CountyFIPS")
-REFERENCES "chronic_conditions_spending" ("StateAbbr", "CountyFIPS");
 
