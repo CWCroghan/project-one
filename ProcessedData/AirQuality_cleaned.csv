@@ -1,0 +1,325 @@
+SiteId,Latitude,Longitude,Sample Duration,PM2.5_Exceptional,PM2.5_ExceedCount,PM2.5_Max,State,County,City,index,Ozone_Exceptional,Ozone_ExceedCount,Ozone_Max,StateAbbr,city_state
+11,33.553056,-86.815,24-HR BLK AVG,0,0.0,26.6,Alabama,Jefferson,Birmingham,69,0.0,1.0,0.078,AL,Birmingham_AL
+15,33.499722,-86.924167,24 HOUR,0,0.0,22.0,Alabama,Jefferson,Birmingham,306,,,,AL,Birmingham_AL
+17,33.521427,-86.844112,24 HOUR,0,0.0,23.1,Alabama,Jefferson,Birmingham,411,,,,AL,Birmingham_AL
+25,34.68547,-86.58816,24 HOUR,0,0.0,18.5,Alabama,Madison,Huntsville,500,0.0,0.0,0.07,AL,Huntsville_AL
+29,32.412811,-86.263394,24 HOUR,0,0.0,20.8,Alabama,Montgomery,Montgomery,564,0.0,0.0,0.06,AL,Montgomery_AL
+38,33.189931,-87.484189,24 HOUR,0,0.0,20.5,Alabama,Tuscaloosa,Tuscaloosa,718,,,,AL,Tuscaloosa_AL
+41,61.205861,-149.824602,24-HR BLK AVG,0,1.0,37.0,Alaska,Anchorage ,Anchorage,775,,,,AK,Anchorage_AK
+43,61.3267,-149.569707,24-HR BLK AVG,0,0.0,21.2,Alaska,Anchorage ,Anchorage,790,,,,AK,Anchorage_AK
+75,33.48378,-112.14256,24-HR BLK AVG,0,5.0,86.6,Arizona,Maricopa,Phoenix,1730,0.0,9.0,0.088,AZ,Phoenix_AZ
+75,33.48378,-112.14256,24-HR BLK AVG,0,5.0,86.6,Arizona,Maricopa,Phoenix,1730,0.0,14.0,0.088,AZ,Phoenix_AZ
+75,33.48378,-112.14256,24-HR BLK AVG,0,5.0,86.6,Arizona,Maricopa,Phoenix,1730,0.0,14.0,0.088,AZ,Phoenix_AZ
+76,33.41018,-111.86536,24-HR BLK AVG,0,1.0,41.1,Arizona,Maricopa,Mesa,1769,0.0,21.0,0.082,AZ,Mesa_AZ
+76,33.41018,-111.86536,24-HR BLK AVG,0,1.0,41.1,Arizona,Maricopa,Mesa,1769,0.0,16.0,0.082,AZ,Mesa_AZ
+76,33.41018,-111.86536,24-HR BLK AVG,0,1.0,41.1,Arizona,Maricopa,Mesa,1769,0.0,21.0,0.082,AZ,Mesa_AZ
+77,33.56031,-112.06619,24-HR BLK AVG,0,0.0,32.6,Arizona,Maricopa,Phoenix,1799,0.0,25.0,0.085,AZ,Phoenix_AZ
+77,33.56031,-112.06619,24-HR BLK AVG,0,0.0,32.6,Arizona,Maricopa,Phoenix,1799,0.0,19.0,0.084,AZ,Phoenix_AZ
+77,33.56031,-112.06619,24-HR BLK AVG,0,0.0,32.6,Arizona,Maricopa,Phoenix,1799,0.0,25.0,0.085,AZ,Phoenix_AZ
+79,33.57453,-112.19193,24-HR BLK AVG,0,1.0,40.0,Arizona,Maricopa,Glendale,1844,0.0,4.0,0.079,AZ,Glendale_AZ
+79,33.57453,-112.19193,24-HR BLK AVG,0,1.0,40.0,Arizona,Maricopa,Glendale,1844,0.0,2.0,0.077,AZ,Glendale_AZ
+79,33.57453,-112.19193,24-HR BLK AVG,0,1.0,40.0,Arizona,Maricopa,Glendale,1844,0.0,4.0,0.079,AZ,Glendale_AZ
+83,33.40314,-112.07526,24-HR BLK AVG,0,4.0,86.2,Arizona,Maricopa,Phoenix,1941,0.0,7.0,0.078,AZ,Phoenix_AZ
+83,33.40314,-112.07526,24-HR BLK AVG,0,4.0,86.2,Arizona,Maricopa,Phoenix,1941,0.0,11.0,0.078,AZ,Phoenix_AZ
+83,33.40314,-112.07526,24-HR BLK AVG,0,4.0,86.2,Arizona,Maricopa,Phoenix,1941,0.0,11.0,0.078,AZ,Phoenix_AZ
+85,33.41123,-111.93471,24-HR BLK AVG,0,0.0,34.5,Arizona,Maricopa,Tempe,2053,0.0,0.0,0.068,AZ,Tempe_AZ
+93,33.39623,-111.96799,24-HR BLK AVG,0,0.0,30.6,Arizona,Maricopa,Tempe,2164,,,,AZ,Tempe_AZ
+96,33.488131,-111.855443,24 HOUR,0,0.0,18.1,Arizona,Maricopa,Scottsdale,2197,0.0,12.0,0.08,AZ,Scottsdale_AZ
+96,33.488131,-111.855443,24 HOUR,0,0.0,18.1,Arizona,Maricopa,Scottsdale,2197,0.0,8.0,0.08,AZ,Scottsdale_AZ
+96,33.488131,-111.855443,24 HOUR,0,0.0,18.1,Arizona,Maricopa,Scottsdale,2197,0.0,12.0,0.08,AZ,Scottsdale_AZ
+104,33.4265,-112.11821,24-HR BLK AVG,0,4.0,54.6,Arizona,Maricopa,Phoenix,2327,,,,AZ,Phoenix_AZ
+105,33.503833,-112.095767,24-HR BLK AVG,0,1.0,39.6,Arizona,Maricopa,Phoenix,2348,0.0,9.0,0.079,AZ,Phoenix_AZ
+105,33.503833,-112.095767,24-HR BLK AVG,0,1.0,39.6,Arizona,Maricopa,Phoenix,2348,0.0,14.0,0.086,AZ,Phoenix_AZ
+105,33.503833,-112.095767,24-HR BLK AVG,0,1.0,39.6,Arizona,Maricopa,Phoenix,2348,0.0,14.0,0.086,AZ,Phoenix_AZ
+113,32.322661,-111.038389,24-HR BLK AVG,0,0.0,23.2,Arizona,Pima,Tucson,2902,,,,AZ,Tucson_AZ
+123,32.29515,-110.9823,24-HR BLK AVG,0,0.0,21.7,Arizona,Pima,Tucson,3032,0.0,1.0,0.074,AZ,Tucson_AZ
+149,32.690278,-114.61444,24-HR BLK AVG,0,2.0,51.0,Arizona,Yuma,Yuma,3518,0.0,10.0,0.079,AZ,Yuma_AZ
+163,34.681343,-92.328697,24 HOUR,0,0.0,24.1,Arkansas,Pulaski,Little Rock,3849,,,,AR,Little Rock_AR
+165,36.1797,-94.116827,24 HOUR,0,0.0,22.2,Arkansas,Washington,Springdale,3875,0.0,0.0,0.063,AR,Springdale_AR
+167,37.687526,-121.784217,24-HR BLK AVG,0,2.0,41.5,California,Alameda,Livermore,3897,0.0,6.0,0.086,CA,Livermore_CA
+168,37.743065,-122.169935,24-HR BLK AVG,0,7.0,70.2,California,Alameda,Oakland,3991,0.0,2.0,0.1,CA,Oakland_CA
+169,37.814781,-122.282347,24-HR BLK AVG,0,7.0,56.0,California,Alameda,Oakland,4030,0.0,0.0,0.068,CA,Oakland_CA
+170,37.793624,-122.263376,24-HR BLK AVG,0,8.0,70.8,California,Alameda,Oakland,4075,,,,CA,Oakland_CA
+183,37.936013,-122.026154,24-HR BLK AVG,0,6.0,89.4,California,Contra Costa,Concord,4392,0.0,0.0,0.07,CA,Concord_CA
+202,36.78538,-119.77321,24-HR BLK AVG,0,23.0,74.2,California,Fresno,Fresno,4870,0.0,64.0,0.112,CA,Fresno_CA
+210,36.72639,-119.733,24 HOUR,0,9.0,88.3,California,Fresno,Fresno,5361,,,,CA,Fresno_CA
+241,35.385574,-119.015009,24 HOUR,0,9.0,74.3,California,Kern,Bakersfield,6078,,,,CA,Bakersfield_CA
+243,35.356615,-119.062613,24 HOUR,0,2.0,56.0,California,Kern,Bakersfield,6114,0.0,85.0,0.104,CA,Bakersfield_CA
+245,35.324636,-118.997627,24 HOUR,0,10.0,80.1,California,Kern,Bakersfield,6421,,,,CA,Bakersfield_CA
+265,34.06659,-118.22688,24 HOUR,0,1.0,37.5,California,Los Angeles,Los Angeles,7072,0.0,14.0,0.086,CA,Los Angeles_CA
+267,33.901389,-118.205,24 HOUR,0,5.0,66.7,California,Los Angeles,Compton,7532,0.0,5.0,0.076,CA,Compton_CA
+274,34.1326,-118.1272,24 HOUR,0,0.0,19.2,California,Los Angeles,Pasadena,7703,0.0,36.0,0.1,CA,Pasadena_CA
+275,33.82376,-118.18921,24 HOUR,0,4.0,55.3,California,Los Angeles,Long Beach,7749,,,,CA,Long Beach_CA
+276,33.79236,-118.17533,24-HR BLK AVG,0,8.0,59.4,California,Los Angeles,Long Beach,7764,,,,CA,Long Beach_CA
+278,33.859662,-118.200707,24-HR BLK AVG,0,10.0,89.9,California,Los Angeles,Long Beach,7825,,,,CA,Long Beach_CA
+281,34.669739,-118.130511,24-HR BLK AVG,0,0.0,26.6,California,Los Angeles,Lancaster,8020,0.0,43.0,0.087,CA,Lancaster_CA
+304,36.694261,-121.623271,24-HR BLK AVG,0,1.0,42.2,California,Monterey,Salinas,8610,0.0,0.0,0.07,CA,Salinas_CA
+308,33.83062,-117.93845,24-HR BLK AVG,0,9.0,56.2,California,Orange,Anaheim,8722,0.0,4.0,0.076,CA,Anaheim_CA
+315,38.74643,-121.26498,24 HOUR,0,0.0,28.2,California,Placer,Roseville,8942,0.0,9.0,0.088,CA,Roseville_CA
+330,33.70853,-116.21537,24 HOUR,0,0.0,18.8,California,Riverside,Indio,9272,0.0,44.0,0.093,CA,Indio_CA
+341,38.56844,-121.49311,24 HOUR,0,2.0,44.5,California,Sacramento,Sacramento,10216,0.0,3.0,0.077,CA,Sacramento_CA
+345,38.593322,-121.503795,24 HOUR,0,2.0,46.9,California,Sacramento,Sacramento,10485,,,,CA,Sacramento_CA
+355,34.030833,-117.61722,24-HR BLK AVG,0,7.0,51.3,California,San Bernardino,Ontario,10675,,,,CA,Ontario_CA
+356,34.510961,-117.32554,24-HR BLK AVG,0,0.0,29.3,California,San Bernardino,Victorville,10708,0.0,17.0,0.081,CA,Victorville_CA
+361,34.10002,-117.49201,24 HOUR,0,1.0,39.2,California,San Bernardino,Fontana,10833,0.0,49.0,0.118,CA,Fontana_CA
+366,34.106678,-117.274063,24 HOUR,0,1.0,38.2,California,San Bernardino,San Bernardino,11042,0.0,112.0,0.136,CA,San Bernardino_CA
+369,32.631242,-117.059088,24 HOUR,0,1.0,42.7,California,San Diego,Chula Vista,11130,0.0,1.0,0.074,CA,Chula Vista_CA
+376,32.845709,-117.123964,24 HOUR,0,0.0,27.4,California,San Diego,San Diego,11408,0.0,6.0,0.083,CA,San Diego_CA
+378,32.789565,-116.944308,24 HOUR,0,0.0,31.8,California,San Diego,El Cajon,11447,0.0,9.0,0.081,CA,El Cajon_CA
+382,37.765946,-122.399044,24-HR BLK AVG,0,7.0,49.9,California,San Francisco,San Francisco,11636,0.0,0.0,0.054,CA,San Francisco_CA
+383,37.950741,-121.268523,24-HR BLK AVG,0,21.0,51.5,California,San Joaquin,Stockton,11749,0.0,2.0,0.079,CA,Stockton_CA
+384,37.793392,-121.247874,24-HR BLK AVG,0,9.0,50.0,California,San Joaquin,Manteca,11853,,,,CA,Manteca_CA
+397,37.482934,-122.20337,24-HR BLK AVG,0,6.0,60.8,California,San Mateo,Redwood City,12020,0.0,2.0,0.086,CA,Redwood City_CA
+400,34.427775,-119.691218,24-HR BLK AVG,0,13.0,231.6,California,Santa Barbara,Santa Barbara,12091,0.0,0.0,0.07,CA,Santa Barbara_CA
+401,34.942872,-120.435611,24-HR BLK AVG,0,0.0,19.9,California,Santa Barbara,Santa Maria,12134,0.0,0.0,0.063,CA,Santa Maria_CA
+417,37.348497,-121.894898,24-HR BLK AVG,0,6.0,49.7,California,Santa Clara,San Jose,12476,0.0,4.0,0.098,CA,San Jose_CA
+418,37.338135,-121.849783,24-HR BLK AVG,0,8.0,48.4,California,Santa Clara,San Jose,12698,,,,CA,San Jose_CA
+424,40.55013,-122.38092,24 HOUR,0,1.0,67.3,California,Shasta,Redding,12769,0.0,3.0,0.075,CA,Redding_CA
+431,38.102507,-122.237976,24-HR BLK AVG,0,9.0,98.8,California,Solano,Vallejo,12923,0.0,2.0,0.088,CA,Vallejo_CA
+440,37.642165,-120.994212,24-HR BLK AVG,0,25.0,74.5,California,Stanislaus,Modesto,13054,0.0,21.0,0.098,CA,Modesto_CA
+441,37.488317,-120.836008,24-HR BLK AVG,0,29.0,72.3,California,Stanislaus,Turlock,13146,0.0,31.0,0.099,CA,Turlock_CA
+474,40.021097,-105.263382,24 HOUR,0,1.0,48.8,Colorado,Boulder,Boulder,14115,,,,CO,Boulder_CO
+481,39.751184,-104.987625,24-HR BLK AVG,0,2.0,46.3,Colorado,Denver,Denver,14155,0.0,0.0,0.069,CO,Denver_CO
+481,39.751184,-104.987625,24-HR BLK AVG,0,2.0,46.3,Colorado,Denver,Denver,14155,0.0,0.0,0.068,CO,Denver_CO
+481,39.751184,-104.987625,24-HR BLK AVG,0,2.0,46.3,Colorado,Denver,Denver,14155,0.0,0.0,0.069,CO,Denver_CO
+483,39.77949,-105.00518,24-HR BLK AVG,0,1.0,41.2,Colorado,Denver,Denver,14294,0.0,0.0,0.069,CO,Denver_CO
+483,39.77949,-105.00518,24-HR BLK AVG,0,1.0,41.2,Colorado,Denver,Denver,14294,0.0,0.0,0.069,CO,Denver_CO
+483,39.77949,-105.00518,24-HR BLK AVG,0,1.0,41.2,Colorado,Denver,Denver,14294,0.0,0.0,0.069,CO,Denver_CO
+484,39.73217,-105.0153,24-HR BLK AVG,0,1.0,42.0,Colorado,Denver,Denver,14426,,,,CO,Denver_CO
+485,39.7861,-104.9886,24-HR BLK AVG,0,1.0,37.6,Colorado,Denver,Denver,14459,,,,CO,Denver_CO
+490,38.848014,-104.828564,24-HR BLK AVG,0,1.0,41.6,Colorado,El Paso,Colorado Springs,14539,,,,CO,Colorado Springs_CO
+521,40.571288,-105.079693,24-HR BLK AVG,0,1.0,59.8,Colorado,Larimer,Fort Collins,15682,,,,CO,Fort Collins_CO
+539,38.276099,-104.597613,24 HOUR,0,1.0,38.5,Colorado,Pueblo,Pueblo,16090,,,,CO,Pueblo_CO
+547,40.414877,-104.70693,24-HR BLK AVG,0,2.0,61.7,Colorado,Weld,Greeley,16246,,,,CO,Greeley_CO
+584,29.706111,-82.387778,24 HOUR,0,0.0,17.7,Florida,Alachua,Gainesville,17586,,,,FL,Gainesville_FL
+588,28.053611,-80.628611,24 HOUR,0,0.0,24.7,Florida,Brevard,Melbourne,17632,0.0,0.0,0.066,FL,Melbourne_FL
+592,26.053889,-80.256944,24-HR BLK AVG,0,0.0,24.0,Florida,Broward,Davie,17674,0.0,1.0,0.071,FL,Davie_FL
+593,26.132677,-80.169817,24-HR BLK AVG,0,0.0,28.9,Florida,Broward,Fort Lauderdale,17854,,,,FL,Fort Lauderdale_FL
+601,30.356339,-81.635396,24 HOUR,0,0.0,28.6,Florida,Duval,Jacksonville,17981,,,,FL,Jacksonville_FL
+607,30.135797,-81.633981,24 HOUR,0,0.0,19.8,Florida,Duval,Jacksonville,18034,,,,FL,Jacksonville_FL
+608,30.354722,-81.547778,24 HOUR,0,0.0,24.4,Florida,Duval,Jacksonville,18051,,,,FL,Jacksonville_FL
+612,30.262778,-81.606833,24-HR BLK AVG,0,0.0,22.7,Florida,Duval,Jacksonville,18093,,,,FL,Jacksonville_FL
+623,27.955133,-82.469532,24-HR BLK AVG,0,0.0,33.7,Florida,Hillsborough,Tampa,18190,,,,FL,Tampa_FL
+635,30.439722,-84.346389,24 HOUR,0,0.0,15.9,Florida,Leon,Tallahassee,18544,0.0,0.0,0.066,FL,Tallahassee_FL
+652,25.794222,-80.215556,24 HOUR,0,0.0,23.3,Florida,Miami-Dade,Miami,18798,,,,FL,Miami_FL
+659,28.53493,-81.384247,24-HR BLK AVG,0,0.0,30.4,Florida,Orange,Orlando,18872,,,,FL,Orlando_FL
+673,27.986283,-82.78215,24 HOUR,0,0.0,24.4,Florida,Pinellas,Clearwater,19200,,,,FL,Clearwater_FL
+679,28.028889,-81.972222,24 HOUR,0,0.0,15.2,Florida,Polk,Lakeland,19240,0.0,4.0,0.08,FL,Lakeland_FL
+691,32.777465,-83.640996,24 HOUR,0,0.0,16.3,Georgia,Bibb,Macon,19504,,,,GA,Macon_GA
+692,32.805264,-83.543493,24-HR BLK AVG,0,0.0,21.3,Georgia,Bibb,Macon,19591,0.0,0.0,0.068,GA,Macon_GA
+696,32.090779,-81.130222,24-HR BLK AVG,0,0.0,23.8,Georgia,Chatham,Savannah,19827,,,,GA,Savannah_GA
+707,31.5776,-84.0998,24-HR BLK AVG,0,1.0,55.7,Georgia,Dougherty,Albany,20501,,,,GA,Albany_GA
+711,33.802241,-84.435618,24 HOUR,0,0.0,20.8,Georgia,Fulton,Atlanta,20616,,,,GA,Atlanta_GA
+713,33.7784,-84.3914,24 HOUR,0,0.0,26.1,Georgia,Fulton,Atlanta,20637,,,,GA,Atlanta_GA
+718,32.6056,-83.5978,24 HOUR,0,0.0,21.3,Georgia,Houston,Warner Robins,20704,,,,GA,Warner Robins_GA
+729,33.4339,-82.0224,24-HR BLK AVG,0,0.0,34.9,Georgia,Richmond,Augusta,20892,0.0,0.0,0.061,GA,Augusta_GA
+743,21.30758,-157.85542,24-HR BLK AVG,0,0.0,16.0,Hawaii,Honolulu,Honolulu,21509,,,,HI,Honolulu_HI
+744,21.303382,-157.871171,24-HR BLK AVG,0,0.0,16.1,Hawaii,Honolulu,Honolulu,21525,0.0,0.0,0.05,HI,Honolulu_HI
+797,41.687165,-87.539315,24 HOUR,0,0.0,23.9,Illinois,Cook,Chicago,22363,,,,IL,Chicago_IL
+799,41.965485,-87.749928,24 HOUR,0,0.0,24.7,Illinois,Cook,Chicago,22388,,,,IL,Chicago_IL
+800,41.912739,-87.722673,24 HOUR,0,0.0,25.0,Illinois,Cook,Chicago,22394,,,,IL,Chicago_IL
+802,41.7514,-87.713488,24 HOUR,0,0.0,23.2,Illinois,Cook,Chicago,22483,0.0,11.0,0.096,IL,Chicago_IL
+814,41.771071,-88.152534,24-HR BLK AVG,0,0.0,26.2,Illinois,DuPage,Naperville,23040,,,,IL,Naperville_IL
+821,42.050403,-88.280015,24 HOUR,0,0.0,22.2,Illinois,Kane,Elgin,23171,,,,IL,Elgin_IL
+823,41.784717,-88.329374,24 HOUR,0,0.0,22.0,Illinois,Kane,Aurora,23181,,,,IL,Aurora_IL
+828,39.866834,-88.925594,24-HR BLK AVG,0,0.0,23.6,Illinois,Macon,Decatur,23235,0.0,3.0,0.073,IL,Decatur_IL
+844,40.697007,-89.584737,24-HR BLK AVG,0,0.0,23.9,Illinois,Peoria,Peoria,23473,,,,IL,Peoria_IL
+852,41.526885,-88.116474,24 HOUR,0,0.0,29.3,Illinois,Will,Joliet,23570,,,,IL,Joliet_IL
+854,42.263081,-89.092767,24 HOUR,0,0.0,28.2,Illinois,Winnebago,Rockford,23587,,,,IL,Rockford_IL
+857,41.094965,-85.101816,24-HR BLK AVG,0,0.0,28.9,Indiana,Allen,Fort Wayne,23601,0.0,1.0,0.071,IN,Fort Wayne_IN
+867,40.199502,-85.387908,24 HOUR,0,0.0,20.5,Indiana,Delaware,Muncie,23869,,,,IN,Muncie_IN
+888,41.606662,-87.304943,24-HR BLK AVG,0,1.0,65.4,Indiana,Lake,Gary,24282,0.0,3.0,0.079,IN,Gary_IN
+889,41.573282,-87.406579,24 HOUR,119,0.0,27.9,Indiana,Lake,Gary,24477,,,,IN,Gary_IN
+890,41.598473,-87.342947,24 HOUR,0,0.0,22.2,Indiana,Lake,Gary,24496,,,,IN,Gary_IN
+914,39.159383,-86.504762,24-HR BLK AVG,0,0.0,16.9,Indiana,Monroe,Bloomington,25305,,,,IN,Bloomington_IN
+927,41.69666,-86.214722,24-HR BLK AVG,0,0.0,23.3,Indiana,St. Joseph,South Bend,25486,0.0,4.0,0.08,IN,South Bend_IN
+932,40.431639,-86.8525,24-HR BLK AVG,0,0.0,26.2,Indiana,Tippecanoe,Lafayette,25578,,,,IN,Lafayette_IN
+934,37.974436,-87.532289,24 HOUR,0,0.0,20.0,Indiana,Vanderburgh,Evansville,25619,,,,IN,Evansville_IN
+935,38.013333,-87.577222,24-HR BLK AVG,0,0.0,19.3,Indiana,Vanderburgh,Evansville,25697,0.0,1.0,0.071,IN,Evansville_IN
+937,37.974465,-87.55802,24 HOUR,0,0.0,24.1,Indiana,Vanderburgh,Evansville,25814,,,,IN,Evansville_IN
+948,42.501543,-92.316017,24 HOUR,0,0.0,19.7,Iowa,Black Hawk,Waterloo,25999,,,,IA,Waterloo_IA
+957,41.657232,-91.503478,24 HOUR,0,0.0,24.1,Iowa,Johnson,Iowa City,26148,,,,IA,Iowa City_IA
+961,41.97677,-91.68766,24-HR BLK AVG,0,0.0,27.5,Iowa,Linn,Cedar Rapids,26204,0.0,0.0,0.066,IA,Cedar Rapids_IA
+961,41.97677,-91.68766,24-HR BLK AVG,0,0.0,27.5,Iowa,Linn,Cedar Rapids,26204,0.0,0.0,0.065,IA,Cedar Rapids_IA
+970,41.603159,-93.643118,24-HR BLK AVG,0,1.0,48.1,Iowa,Polk,Des Moines,26519,0.0,0.0,0.065,IA,Des Moines_IA
+970,41.603159,-93.643118,24-HR BLK AVG,0,1.0,48.1,Iowa,Polk,Des Moines,26519,0.0,0.0,0.065,IA,Des Moines_IA
+983,42.499844,-96.394755,24 HOUR,0,0.0,20.3,Iowa,Woodbury,Sioux City,26993,,,,IA,Sioux City_IA
+986,38.974457,-94.687013,24 HOUR,0,0.0,21.7,Kansas,Johnson,Overland Park,27058,,,,KS,Overland Park_KS
+991,37.651114,-97.362212,24 HOUR,0,0.0,20.9,Kansas,Sedgwick,Wichita,27104,,,,KS,Wichita_KS
+992,37.702066,-97.314847,24-HR BLK AVG,0,0.0,32.8,Kansas,Sedgwick,Wichita,27120,0.0,0.0,0.07,KS,Wichita_KS
+994,37.747085,-97.316912,24 HOUR,0,0.0,20.0,Kansas,Sedgwick,Wichita,27216,,,,KS,Wichita_KS
+995,39.024265,-95.711275,24-HR BLK AVG,0,0.0,25.9,Kansas,Shawnee,Topeka,27225,0.0,0.0,0.066,KS,Topeka_KS
+1000,39.117219,-94.635605,24-HR BLK AVG,0,0.0,32.1,Kansas,Wyandotte,Kansas City,27336,0.0,1.0,0.071,KS,Kansas City_KS
+1018,38.23319,-85.81566,24-HR BLK AVG,0,0.0,23.5,Kentucky,Jefferson,Louisville,27976,,,,KY,Louisville_KY
+1019,38.06091,-85.89804,24-HR BLK AVG,0,0.0,23.4,Kentucky,Jefferson,Louisville,28003,0.0,1.0,0.072,KY,Louisville_KY
+1020,38.22876,-85.65452,24-HR BLK AVG,0,0.0,23.7,Kentucky,Jefferson,Louisville,28027,0.0,4.0,0.074,KY,Louisville_KY
+1021,38.1936,-85.7119,24 HOUR,0,0.0,24.4,Kentucky,Jefferson,Louisville,28143,,,,KY,Louisville_KY
+1042,32.471819,-93.795179,24 HOUR,0,0.0,18.5,Louisiana,Caddo,Shreveport,28588,,,,LA,Shreveport_LA
+1048,30.461981,-91.179219,24-HR BLK AVG,0,0.0,30.7,Louisiana,East Baton Rouge,Baton Rouge,28640,0.0,4.0,0.078,LA,Baton Rouge_LA
+1057,30.22611,-92.042908,24 HOUR,0,0.0,28.5,Louisiana,Lafayette,Lafayette,28892,0.0,1.0,0.072,LA,Lafayette_LA
+1061,29.996013,-90.11819,24 HOUR,0,0.0,24.5,Louisiana,Orleans,New Orleans,28928,,,,LA,New Orleans_LA
+1144,39.34465,-76.68538,24 HOUR,0,0.0,22.4,Maryland,Baltimore (City),Baltimore,31028,,,,MD,Baltimore_MD
+1145,39.297733,-76.604603,24-HR BLK AVG,0,1.0,38.4,Maryland,Baltimore (City),Baltimore,31034,,,,MD,Baltimore_MD
+1165,42.348873,-71.097163,24 HOUR,0,0.0,13.6,Massachusetts,Suffolk,Boston,31822,,,,MA,Boston_MA
+1166,42.3295,-71.0826,24-HR BLK AVG,0,0.0,30.0,Massachusetts,Suffolk,Boston,31846,0.0,3.0,0.076,MA,Boston_MA
+1167,42.3631,-71.0543,24-HR BLK AVG,0,0.0,22.2,Massachusetts,Suffolk,Boston,32199,,,,MA,Boston_MA
+1168,42.325186,-71.056061,24-HR BLK AVG,0,0.0,21.3,Massachusetts,Suffolk,Boston,32237,,,,MA,Boston_MA
+1183,42.738618,-84.534633,24 HOUR,0,0.0,25.1,Michigan,Ingham,Lansing,32465,0.0,0.0,0.069,MI,Lansing_MI
+1186,42.278067,-85.54189,24 HOUR,0,0.0,23.5,Michigan,Kalamazoo,Kalamazoo,32506,0.0,1.0,0.071,MI,Kalamazoo_MI
+1187,42.956117,-85.679117,24 HOUR,0,0.0,30.7,Michigan,Kent,Grand Rapids,32528,,,,MI,Grand Rapids_MI
+1188,42.984173,-85.671339,24 HOUR,0,0.0,23.1,Michigan,Kent,Grand Rapids,32534,0.0,0.0,0.068,MI,Grand Rapids_MI
+1224,42.302786,-83.10653,24 HOUR,0,2.0,42.3,Michigan,Wayne,Detroit,33265,,,,MI,Detroit_MI
+1225,42.357808,-83.096033,24 HOUR,0,1.0,35.7,Michigan,Wayne,Detroit,33425,,,,MI,Detroit_MI
+1226,42.43084,-83.000138,24 HOUR,0,0.0,21.8,Michigan,Wayne,Detroit,33431,0.0,7.0,0.084,MI,Detroit_MI
+1232,42.323341,-83.068473,24 HOUR,0,0.0,34.1,Michigan,Wayne,Detroit,33807,,,,MI,Detroit_MI
+1233,42.385998,-83.266189,24-HR BLK AVG,0,1.0,39.6,Michigan,Wayne,Detroit,33819,0.0,0.0,0.059,MI,Detroit_MI
+1277,43.996908,-92.450366,24-HR BLK AVG,0,0.0,25.5,Minnesota,Olmsted,Rochester,35776,0.0,0.0,0.066,MN,Rochester_MN
+1286,46.81826,-92.08936,24 HOUR,0,0.0,17.8,Minnesota,Saint Louis,Duluth,36123,0.0,0.0,0.057,MN,Duluth_MN
+1287,46.743657,-92.165998,24-HR BLK AVG,0,0.0,27.0,Minnesota,Saint Louis,Duluth,36157,,,,MN,Duluth_MN
+1304,30.390369,-89.049778,24 HOUR,0,0.0,22.4,Mississippi,Harrison,Gulfport,36617,0.0,1.0,0.072,MS,Gulfport_MS
+1305,32.329111,-90.182722,24-HR BLK AVG,0,0.0,28.1,Mississippi,Hinds,Jackson,36638,0.0,0.0,0.067,MS,Jackson_MS
+1306,32.346722,-90.225667,24 HOUR,0,0.0,21.0,Mississippi,Hinds,Jackson,36760,0.0,0.0,0.066,MS,Jackson_MS
+1313,39.741694,-94.858584,24-HR BLK AVG,0,1.0,38.7,Missouri,Buchanan,St. Joseph,36839,,,,MO,St. Joseph_MO
+1323,37.256137,-93.299894,24-HR BLK AVG,0,0.0,19.9,Missouri,Greene,Springfield,37019,0.0,0.0,0.064,MO,Springfield_MO
+1323,37.256137,-93.299894,24-HR BLK AVG,0,0.0,19.9,Missouri,Greene,Springfield,37019,0.0,0.0,0.064,MO,Springfield_MO
+1336,39.104686,-94.57079,24-HR BLK AVG,0,0.0,34.3,Missouri,Jackson,Kansas City,37092,,,,MO,Kansas City_MO
+1337,39.047911,-94.450513,24-HR BLK AVG,0,0.0,24.0,Missouri,Jackson,Kansas City,37120,,,,MO,Kansas City_MO
+1393,46.842181,-114.021499,24-HR BLK AVG,0,22.0,144.8,Montana,Missoula,Missoula,38478,0.0,0.0,0.064,MT,Missoula_MT
+1414,45.7804,-108.511542,24-HR BLK AVG,0,5.0,51.6,Montana,Yellowstone,Billings,39128,,,,MT,Billings_MT
+1415,45.806311,-108.425978,24-HR BLK AVG,0,0.0,13.8,Montana,Yellowstone,Billings,39142,,,,MT,Billings_MT
+1419,41.247486,-95.973142,24 HOUR,0,0.0,21.0,Nebraska,Douglas,Omaha,39159,0.0,0.0,0.067,NE,Omaha_NE
+1422,41.197847,-96.056686,24 HOUR,0,0.0,21.5,Nebraska,Douglas,Omaha,39287,,,,NE,Omaha_NE
+1430,40.812591,-96.683314,24 HOUR,0,0.0,29.9,Nebraska,Lancaster,Lincoln,39358,,,,NE,Lincoln_NE
+1443,36.048705,-115.052942,24-HR BLK AVG,0,0.0,30.4,Nevada,Clark,Henderson,39546,0.0,3.0,0.073,NV,Henderson_NV
+1445,36.163962,-115.11393,24-HR BLK AVG,0,2.0,46.6,Nevada,Clark,Las Vegas,39691,,,,NV,Las Vegas_NV
+1448,36.139707,-115.175654,24-HR BLK AVG,0,0.0,34.1,Nevada,Clark,Las Vegas,39755,,,,NV,Las Vegas_NV
+1450,36.191251,-115.122953,24-HR BLK AVG,0,1.0,46.0,Nevada,Clark,North Las Vegas,39774,0.0,5.0,0.075,NV,North Las Vegas_NV
+1463,39.525083,-119.807717,24-HR BLK AVG,0,1.0,45.6,Nevada,Washoe,Reno,39925,0.0,1.0,0.071,NV,Reno_NV
+1467,39.540917,-119.746761,24-HR BLK AVG,0,0.0,35.0,Nevada,Washoe,Sparks,40069,0.0,2.0,0.071,NV,Sparks_NV
+1468,39.621434,-119.71877,24-HR BLK AVG,0,0.0,23.6,Nevada,Washoe,Sparks,40089,0.0,1.0,0.071,NV,Sparks_NV
+1500,40.720989,-74.192892,24-HR BLK AVG,0,0.0,24.7,New Jersey,Essex,Newark,41061,0.0,1.0,0.071,NJ,Newark_NJ
+1506,40.725413,-74.052293,24-HR BLK AVG,0,0.0,25.1,New Jersey,Hudson,Jersey City,41251,,,,NJ,Jersey City_NJ
+1522,35.1343,-106.5852,24 HOUR,0,0.0,11.8,New Mexico,Bernalillo,Albuquerque,42061,0.0,2.0,0.076,NM,Albuquerque_NM
+1536,32.322037,-106.768337,24-HR BLK AVG,0,0.0,19.9,New Mexico,Dona Ana,Las Cruces,42449,,,,NM,Las Cruces_NM
+1562,40.816,-73.902,24-HR BLK AVG,0,0.0,23.5,New York,Bronx,New York,43114,0.0,2.0,0.081,NY,New York_NY
+1564,40.8679,-73.87809,24 HOUR,0,0.0,19.9,New York,Bronx,New York,43435,0.0,2.0,0.079,NY,New York_NY
+1582,40.71961,-73.94771,24 HOUR,0,0.0,21.9,New York,Kings,New York,44430,,,,NY,New York_NY
+1586,40.7997,-73.93432,24 HOUR,0,0.0,17.4,New York,New York,New York,44712,,,,NY,New York_NY
+1588,40.73,-73.984,24 HOUR,0,0.0,34.0,New York,New York,New York,44746,,,,NY,New York_NY
+1589,40.71436,-73.99518,24 HOUR,0,0.0,23.2,New York,New York,New York,44765,,,,NY,New York_NY
+1602,40.73614,-73.82153,24-HR BLK AVG,0,0.0,19.9,New York,Queens,New York,45032,0.0,6.0,0.086,NY,New York_NY
+1603,40.739264,-73.817694,24 HOUR,0,0.0,19.7,New York,Queens,New York,45270,,,,NY,New York_NY
+1604,40.63307,-74.13719,24 HOUR,0,0.0,20.8,New York,Richmond,New York,45304,,,,NY,New York_NY
+1626,35.6062,-82.5844,24-HR BLK AVG,0,0.0,20.3,North Carolina,Buncombe,Asheville,45718,,,,NC,Asheville_NC
+1634,35.041416,-78.953112,24-HR BLK AVG,0,0.0,29.9,North Carolina,Cumberland,Fayetteville,45924,,,,NC,Fayetteville_NC
+1639,36.11094,-80.224501,24 HOUR,0,0.0,12.9,North Carolina,Forsyth,Winston-Salem,46017,0.0,0.0,0.068,NC,Winston-Salem_NC
+1644,36.109006,-79.802314,24-HR BLK AVG,0,0.0,18.5,North Carolina,Guilford,Greensboro,46233,0.0,1.0,0.074,NC,Greensboro_NC
+1658,35.2401,-80.785683,24-HR BLK AVG,0,0.0,25.7,North Carolina,Mecklenburg,Charlotte,46611,0.0,2.0,0.073,NC,Charlotte_NC
+1659,35.151283,-80.866983,24 HOUR,0,0.0,13.8,North Carolina,Mecklenburg,Charlotte,46868,,,,NC,Charlotte_NC
+1660,35.213171,-80.874084,24 HOUR,0,0.0,20.5,North Carolina,Mecklenburg,Charlotte,46892,,,,NC,Charlotte_NC
+1676,35.856111,-78.574167,24-HR BLK AVG,0,0.0,23.0,North Carolina,Wake,Raleigh,47348,0.0,0.0,0.07,NC,Raleigh_NC
+1719,41.55523,-81.575256,24 HOUR,0,0.0,24.9,Ohio,Cuyahoga,Cleveland,48799,0.0,2.0,0.078,OH,Cleveland_OH
+1720,41.477011,-81.682383,24 HOUR,0,0.0,33.7,Ohio,Cuyahoga,Cleveland,48809,,,,OH,Cleveland_OH
+1722,41.471782,-81.656792,24 HOUR,0,0.0,28.8,Ohio,Cuyahoga,Cleveland,49003,,,,OH,Cleveland_OH
+1725,41.492117,-81.678449,24 HOUR,0,0.0,33.6,Ohio,Cuyahoga,Cleveland,49046,0.0,0.0,0.07,OH,Cleveland_OH
+1736,39.99875,-82.99344,24 HOUR,0,0.0,25.6,Ohio,Franklin,Columbus,49533,,,,OH,Columbus_OH
+1740,40.11107,-83.065415,24 HOUR,0,0.0,32.1,Ohio,Franklin,Columbus,49640,,,,OH,Columbus_OH
+1741,39.928531,-82.980105,24 HOUR,0,0.0,27.8,Ohio,Franklin,Columbus,49657,,,,OH,Columbus_OH
+1742,40.0877,-82.959773,24 HOUR,0,1.0,36.2,Ohio,Franklin,Columbus,49753,0.0,0.0,0.07,OH,Columbus_OH
+1752,39.19433,-84.478974,24 HOUR,0,0.0,28.9,Ohio,Hamilton,Cincinnati,49862,,,,OH,Cincinnati_OH
+1753,39.12886,-84.50404,24 HOUR,0,0.0,20.8,Ohio,Hamilton,Cincinnati,49933,0.0,4.0,0.079,OH,Cincinnati_OH
+1754,39.10492,-84.55117,24 HOUR,0,0.0,21.2,Ohio,Hamilton,Cincinnati,50058,,,,OH,Cincinnati_OH
+1756,39.146025,-84.538375,24-HR BLK AVG,0,0.0,29.8,Ohio,Hamilton,Cincinnati,50188,,,,OH,Cincinnati_OH
+1775,41.644067,-83.54616,24 HOUR,0,0.0,22.2,Ohio,Lucas,Toledo,50576,0.0,0.0,0.066,OH,Toledo_OH
+1776,41.62057,-83.64226,24 HOUR,0,1.0,37.8,Ohio,Lucas,Toledo,50596,,,,OH,Toledo_OH
+1778,41.662567,-83.478333,24 HOUR,0,0.0,33.8,Ohio,Lucas,Toledo,50606,,,,OH,Toledo_OH
+1781,41.679867,-83.4785,24 HOUR,0,0.0,21.2,Ohio,Lucas,Toledo,50621,,,,OH,Toledo_OH
+1783,41.111111,-80.645278,24 HOUR,0,0.0,17.9,Ohio,Mahoning,Youngstown,50632,,,,OH,Youngstown_OH
+1786,41.09596,-80.65847,24 HOUR,0,0.0,22.1,Ohio,Mahoning,Youngstown,50656,,,,OH,Youngstown_OH
+1793,39.755969,-84.198674,24 HOUR,0,0.0,23.6,Ohio,Montgomery,Dayton,50708,,,,OH,Dayton_OH
+1816,40.786804,-81.394153,24 HOUR,0,0.0,26.1,Ohio,Stark,Canton,51032,,,,OH,Canton_OH
+1817,40.800717,-81.373,24 HOUR,0,0.0,25.0,Ohio,Stark,Canton,51119,,,,OH,Canton_OH
+1821,41.063526,-81.468956,24-HR BLK AVG,0,0.0,27.8,Ohio,Summit,Akron,51148,,,,OH,Akron_OH
+1823,41.087862,-81.541532,24 HOUR,0,0.0,27.1,Ohio,Summit,Akron,51178,,,,OH,Akron_OH
+1841,34.63298,-98.42879,24-HR BLK AVG,0,0.0,17.7,Oklahoma,Comanche,Lawton,51538,0.0,1.0,0.075,OK,Lawton_OK
+1861,35.47292,-97.52709,24 HOUR,0,0.0,15.8,Oklahoma,Oklahoma,Oklahoma City,51886,,,,OK,Oklahoma City_OK
+1863,35.50307,-97.577981,24 HOUR,0,0.0,16.8,Oklahoma,Oklahoma,Oklahoma City,51903,,,,OK,Oklahoma City_OK
+1864,35.614131,-97.475083,24-HR BLK AVG,0,0.0,22.3,Oklahoma,Oklahoma,Oklahoma City,52071,0.0,4.0,0.075,OK,Oklahoma City_OK
+1879,36.204902,-95.976537,24-HR BLK AVG,0,0.0,28.4,Oklahoma,Tulsa,Tulsa,52564,0.0,0.0,0.068,OK,Tulsa_OK
+1894,42.31411,-122.87923,24 HOUR,0,2.0,150.0,Oregon,Jackson,Medford,52979,,,,OR,Medford_OR
+1907,44.067224,-123.141352,24 HOUR,0,4.0,330.0,Oregon,Lane,Eugene,53170,,,,OR,Eugene_OR
+1908,44.026312,-123.083737,24 HOUR,0,3.0,152.5,Oregon,Lane,Eugene,53181,0.0,3.0,0.091,OR,Eugene_OR
+1920,45.496641,-122.602877,24 HOUR,0,2.0,53.1,Oregon,Multnomah,Portland,53334,0.0,1.0,0.087,OR,Portland_OR
+1936,45.528501,-122.972398,24 HOUR,0,2.0,39.8,Oregon,Washington,Hillsboro,53986,,,,OR,Hillsboro_OR
+1943,40.46542,-79.960757,24-HR BLK AVG,0,0.0,29.0,Pennsylvania,Allegheny,Pittsburgh,54294,0.0,0.0,0.069,PA,Pittsburgh_PA
+2016,40.008889,-75.09778,24 HOUR,0,0.0,23.2,Pennsylvania,Philadelphia,Philadelphia,56450,0.0,0.0,0.05,PA,Philadelphia_PA
+2019,39.991389,-75.080833,24-HR BLK AVG,0,0.0,24.5,Pennsylvania,Philadelphia,Philadelphia,56559,0.0,9.0,0.079,PA,Philadelphia_PA
+2020,39.922867,-75.186921,24-HR BLK AVG,0,0.0,31.1,Pennsylvania,Philadelphia,Philadelphia,56812,,,,PA,Philadelphia_PA
+2021,39.960048,-75.142614,24-HR BLK AVG,0,0.0,28.2,Pennsylvania,Philadelphia,Philadelphia,56972,,,,PA,Philadelphia_PA
+2023,40.054171,-74.985166,24-HR BLK AVG,0,0.0,32.2,Pennsylvania,Philadelphia,Philadelphia,57042,,,,PA,Philadelphia_PA
+2024,39.988842,-75.207205,24-HR BLK AVG,0,0.0,31.4,Pennsylvania,Philadelphia,Philadelphia,57059,,,,PA,Philadelphia_PA
+2057,32.980254,-80.06501,24 HOUR,48,0.0,20.6,South Carolina,Charleston,North Charleston,58671,,,,SC,North Charleston_SC
+2058,32.790984,-79.958694,24 HOUR,0,0.0,22.8,South Carolina,Charleston,Charleston,58701,,,,SC,Charleston_SC
+2077,33.991509,-81.024141,24 HOUR,0,0.0,13.7,South Carolina,Richland,Columbia,59302,,,,SC,Columbia_SC
+2092,43.54792,-96.700769,24-HR BLK AVG,0,0.0,31.5,South Dakota,Minnehaha,Sioux Falls,59579,0.0,0.0,0.069,SD,Sioux Falls_SD
+2093,44.087397,-103.273777,24-HR BLK AVG,0,5.0,56.9,South Dakota,Pennington,Rapid City,59698,,,,SD,Rapid City_SD
+2094,44.078352,-103.22824,24 HOUR,0,0.0,30.4,South Dakota,Pennington,Rapid City,59716,,,,SD,Rapid City_SD
+2102,36.176382,-86.7389,24-HR BLK AVG,0,0.0,25.3,Tennessee,Davidson,Nashville,59887,,,,TN,Nashville_TN
+2109,35.050918,-85.293019,24-HR BLK AVG,0,0.0,26.4,Tennessee,Hamilton,Chattanooga,59972,,,,TN,Chattanooga_TN
+2115,35.944601,-84.03598,24 HOUR,0,0.0,24.5,Tennessee,Knox,Knoxville,60014,,,,TN,Knoxville_TN
+2116,35.980675,-83.925773,24 HOUR,0,0.0,22.1,Tennessee,Knox,Knoxville,60032,,,,TN,Knoxville_TN
+2117,35.978074,-83.950666,24 HOUR,0,0.0,22.4,Tennessee,Knox,Knoxville,60043,,,,TN,Knoxville_TN
+2118,36.019186,-83.87381,24 HOUR,0,0.0,20.6,Tennessee,Knox,Knoxville,60053,0.0,0.0,0.07,TN,Knoxville_TN
+2131,35.151194,-90.041559,24 HOUR,0,0.0,17.7,Tennessee,Shelby,Memphis,60353,,,,TN,Memphis_TN
+2132,35.151699,-89.850249,24 HOUR,0,0.0,16.4,Tennessee,Shelby,Memphis,60365,0.0,2.0,0.071,TN,Memphis_TN
+2133,35.16126,-89.87065,24 HOUR,0,0.0,16.9,Tennessee,Shelby,Memphis,60480,,,,TN,Memphis_TN
+2146,29.51509,-98.620166,24 HOUR,0,1.0,46.3,Texas,Bexar,San Antonio,60610,0.0,4.0,0.08,TX,San Antonio_TX
+2149,29.275381,-98.311692,24 HOUR,0,0.0,29.2,Texas,Bexar,San Antonio,60646,0.0,0.0,0.069,TX,San Antonio_TX
+2153,29.529432,-98.391403,24 HOUR,0,1.0,44.2,Texas,Bexar,San Antonio,60690,,,,TX,San Antonio_TX
+2159,25.892518,-97.49383,24 HOUR,0,0.0,27.5,Texas,Cameron,Brownsville,60832,0.0,0.0,0.06,TX,Brownsville_TX
+2169,32.774262,-96.797686,24 HOUR,0,0.0,19.7,Texas,Dallas,Dallas,60961,,,,TX,Dallas_TX
+2170,32.820061,-96.860117,24-HR BLK AVG,0,0.0,25.2,Texas,Dallas,Dallas,60973,0.0,4.0,0.082,TX,Dallas_TX
+2181,31.768286,-106.501243,24 HOUR,0,0.0,28.0,Texas,El Paso,El Paso,61633,0.0,10.0,0.075,TX,El Paso_TX
+2183,31.765685,-106.455227,24-HR BLK AVG,0,0.0,31.9,Texas,El Paso,El Paso,61667,0.0,6.0,0.082,TX,El Paso_TX
+2195,29.901036,-95.326137,24 HOUR,0,0.0,32.1,Texas,Harris,Houston,62008,0.0,8.0,0.08,TX,Houston_TX
+2202,29.770698,-95.031232,24-HR BLK AVG,0,0.0,33.2,Texas,Harris,Baytown,62233,,,,TX,Baytown_TX
+2209,29.767997,-95.220582,24-HR BLK AVG,0,1.0,36.5,Texas,Harris,Houston,62336,0.0,3.0,0.081,TX,Houston_TX
+2210,29.733726,-95.257593,24 HOUR,0,0.0,32.1,Texas,Harris,Houston,62359,0.0,6.0,0.078,TX,Houston_TX
+2214,29.81453,-95.38769,24 HOUR,0,0.0,25.4,Texas,Harris,Houston,62971,,,,TX,Houston_TX
+2218,26.22621,-98.291069,24 HOUR,0,0.0,28.9,Texas,Hidalgo,Mission,63233,0.0,0.0,0.064,TX,Mission_TX
+2219,26.288622,-98.152066,24 HOUR,0,0.0,33.0,Texas,Hidalgo,Edinburg,63269,,,,TX,Edinburg_TX
+2246,27.804489,-97.431553,24 HOUR,0,0.0,27.9,Texas,Nueces,Corpus Christi,63807,,,,TX,Corpus Christi_TX
+2247,27.811817,-97.465703,24 HOUR,0,0.0,18.5,Texas,Nueces,Corpus Christi,63830,,,,TX,Corpus Christi_TX
+2263,32.80581,-97.356529,24 HOUR,0,0.0,18.0,Texas,Tarrant,Fort Worth,64051,0.0,6.0,0.079,TX,Fort Worth_TX
+2264,32.759154,-97.342332,24 HOUR,0,0.0,18.1,Texas,Tarrant,Fort Worth,64223,,,,TX,Fort Worth_TX
+2265,32.664753,-97.337917,24 HOUR,0,0.0,18.2,Texas,Tarrant,Fort Worth,64231,,,,TX,Fort Worth_TX
+2273,30.263204,-97.712891,24-HR BLK AVG,0,0.0,28.8,Texas,Travis,Austin,64433,,,,TX,Austin_TX
+2274,30.35386,-97.69166,24 HOUR,0,0.0,25.4,Texas,Travis,Austin,64453,,,,TX,Austin_TX
+2291,40.736389,-111.872222,24-HR BLK AVG,0,9.0,59.0,Utah,Salt Lake,Salt Lake City,65205,0.0,19.0,0.083,UT,Salt Lake City_UT
+2292,40.78422,-111.931,24-HR BLK AVG,0,3.0,40.0,Utah,Salt Lake,Salt Lake City,65351,,,,UT,Salt Lake City_UT
+2309,41.206321,-111.975524,24-HR BLK AVG,0,4.0,54.8,Utah,Weber,Ogden,65999,0.0,13.0,0.079,UT,Ogden_UT
+2348,37.103733,-76.387017,24-HR BLK AVG,0,0.0,16.8,Virginia,Hampton City,Hampton,67381,0.0,0.0,0.069,VA,Hampton_VA
+2350,37.332706,-79.215011,24 HOUR,0,0.0,16.3,Virginia,Lynchburg City,Lynchburg,67483,,,,VA,Lynchburg_VA
+2351,36.85555,-76.30135,24 HOUR,0,0.0,17.0,Virginia,Norfolk City,Norfolk,67489,,,,VA,Norfolk_VA
+2374,45.64336,-122.58737,24-HR BLK AVG,0,6.0,70.0,Washington,Clark,Vancouver,67808,,,,WA,Vancouver_WA
+2388,47.597222,-122.319722,24-HR BLK AVG,0,6.0,56.0,Washington,King,Seattle,67881,,,,WA,Seattle_WA
+2398,47.55975,-122.338265,24-HR BLK AVG,0,6.0,57.6,Washington,King,Seattle,68395,,,,WA,Seattle_WA
+2401,47.568236,-122.308628,24-HR BLK AVG,0,6.0,56.8,Washington,King,Seattle,68463,0.0,0.0,0.052,WA,Seattle_WA
+2403,47.386111,-122.230278,24-HR BLK AVG,0,8.0,67.9,Washington,King,Kent,68756,,,,WA,Kent_WA
+2417,47.22634,-122.46256,24-HR BLK AVG,0,5.0,68.5,Washington,Pierce,Tacoma,68991,,,,WA,Tacoma_WA
+2418,47.1864,-122.4517,24-HR BLK AVG,0,7.0,68.3,Washington,Pierce,Tacoma,69007,,,,WA,Tacoma_WA
+2431,47.672482,-117.364852,24-HR BLK AVG,0,13.0,194.9,Washington,Spokane,Spokane,69234,,,,WA,Spokane_WA
+2449,46.598056,-120.499167,24-HR BLK AVG,0,23.0,184.6,Washington,Yakima,Yakima,69363,,,,WA,Yakima_WA
+2466,38.346258,-81.621161,24-HR BLK AVG,0,0.0,18.5,West Virginia,Kanawha,Charleston,69602,0.0,1.0,0.072,WV,Charleston_WV
+2478,44.50729,-87.99344,24-HR BLK AVG,0,0.0,25.9,Wisconsin,Brown,Green Bay,69975,,,,WI,Green Bay_WI
+2481,43.10101,-89.35768,24-HR BLK AVG,0,0.0,23.1,Wisconsin,Dane,Madison,70082,0.0,0.0,0.065,WI,Madison_WI
+2482,43.0733,-89.4358,24 HOUR,0,0.0,27.7,Wisconsin,Dane,Madison,70107,,,,WI,Madison_WI
+2496,43.01724,-87.93369,24-HR BLK AVG,0,0.0,25.4,Wisconsin,Milwaukee,Milwaukee,70516,0.0,1.0,0.071,WI,Milwaukee_WI
+2497,43.060975,-87.913504,24-HR BLK AVG,0,0.0,22.4,Wisconsin,Milwaukee,Milwaukee,70737,0.0,3.0,0.078,WI,Milwaukee_WI
+2498,42.93257,-87.93434,24-HR BLK AVG,0,0.0,26.5,Wisconsin,Milwaukee,Milwaukee,70859,,,,WI,Milwaukee_WI
+2499,42.930708,-87.931983,24-HR BLK AVG,0,0.0,25.2,Wisconsin,Milwaukee,Milwaukee,70883,,,,WI,Milwaukee_WI
+2501,43.039871,-87.920794,24 HOUR,0,0.0,27.2,Wisconsin,Milwaukee,Milwaukee,70902,,,,WI,Milwaukee_WI
+2503,44.30738,-88.39509,24-HR BLK AVG,0,0.0,28.1,Wisconsin,Outagamie,Appleton,70916,0.0,0.0,0.067,WI,Appleton_WI
+2517,43.020075,-88.21507,24-HR BLK AVG,0,0.0,30.1,Wisconsin,Waukesha,Waukesha,71151,0.0,0.0,0.067,WI,Waukesha_WI
+2594,41.136846,-104.818239,24 HOUR,0,0.0,10.1,Wyoming,Laramie,Cheyenne,71843,,,,WY,Cheyenne_WY
+2595,41.13069,-104.75308,24-HR BLK AVG,0,0.0,14.9,Wyoming,Laramie,Cheyenne,71888,0.0,0.0,0.057,WY,Cheyenne_WY
