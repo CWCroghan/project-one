@@ -57,7 +57,7 @@ We utilized the below mentioned methods for data cleaning and preprocessing :
 2. Pandas
 
 3. Numpy
-For each dataset ,we had a specific approach to the based on dataset's  requirements. These approaches involved steps such as handling missing values, removing duplicates, standardizing data formats, and resolving inconsistencies. The links below provide information on each dataset cleaning approach.
+For each dataset, we had a specific approach to the based on dataset's  requirements. These approaches involved steps such as handling missing values, removing duplicates, standardizing data formats, and resolving inconsistencies. The links below provide information on each dataset cleaning approach.
 
 [500 City Data](https://github.com/CWCroghan/project-one/blob/main/dataProcessing/500_City.md)
 
