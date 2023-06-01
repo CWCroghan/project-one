@@ -163,7 +163,6 @@ You can access our comprehensive dashboard by visiting the link [Dashboard](http
     
 -   Select on state and it will give you information on information based on county and HPI(Housing Price Index)
 
-**![](https://lh6.googleusercontent.com/2Tg3AJufNwSDl7itxg4SVkBTuVghBpRXFWN6Nyk1i8wlJcfzu2hd3pG04HlntWSHHvlQdumj6TQE7mLsZ8M8A-90ZfRx4xG1hiEIkvbsk0Li-L-YsgODpROr4AKp9SMPusUS-yoyAGsiVjuDnBjh9g43=s2048)**
 
  - Ability to select by state to filter out information
 
