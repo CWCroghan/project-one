@@ -5,14 +5,14 @@ placefips, string,City Fips,500 City
 tractfips, string,Tract Fips,500 City
 place_tractid4, string,Combination of City and Tract Fips,500 City
 population2010, string,Population in 2010,500 City
-insurance, string,Insurance Population adjusted rates,500 City
-highbloodpressure, string,High Blood Pressure Population adjusted rates,500 City
-cancer, string,Cancer Population adjusted rates,500 City
-asthma9, string,Asthma Population adjusted rates,500 City
-heartdisease, string,Heart Disease Population adjusted rates,500 City
-annualcheckups, string,Annual Checkups Population adjusted rates,500 City
-smokes, string,Smokes Population adjusted rates,500 City
-mentalhealthissues, string,Mental Health Issues Population adjusted rates,500 City
+insurance, string,Insurance  rates (%),500 City
+highbloodpressure, string,High Blood Pressure  rates (%),500 City
+cancer, string,Cancer  rates (%),500 City
+asthma9, string,Asthma  rates (%),500 City
+heartdisease, string,Heart Disease  rates (%),500 City
+annualcheckups, string,Annual Checkups  rates (%),500 City
+smokes, string,Smokes  rates (%),500 City
+mentalhealthissues, string,Mental Health Issues  rates (%),500 City
 latitude, string,Latitude of Track,500 City
 longitude, string,Longitude of Track,500 City
 countyfips16, string,County Fips,500 City
