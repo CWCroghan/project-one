@@ -155,7 +155,7 @@ For each dataset, we had a specific approach to the based on dataset's requireme
 
   
   ### Dashboard
-We utilized Tableau to develop and host our interactive dashboard, which seamlessly connects to our Postgres database hosted on AWS through a direct connection.
+We utilized Tableau to develop and host our interactive dashboard which connects to our dataset through a csv file that can be updated.
 
 You can access our comprehensive dashboard by visiting the link [Dashboard](https://public.tableau.com/app/profile/johnte.williams/viz/Project5_16856518785170/Project1?publish=yes)
 
