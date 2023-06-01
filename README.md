@@ -159,15 +159,27 @@ We utilized Tableau to develop and host our interactive dashboard, which seamles
 
 You can access our comprehensive dashboard by visiting the link [Dashboard](https://public.tableau.com/authoring/Project4_16854922280320/Project1#1)
 
--   Select superfund site to  filter by the city and to see the chronic disease and total cost.
-    
--   Select on state and it will give you information on information based on county and HPI(Housing Price Index)
--   
+  
 ![image](https://github.com/CWCroghan/project-one/assets/119356389/b6433e78-f291-4fc9-80c4-47145d9dde56)
 
 
- - Ability to select by state to filter out information
+ - Ability to select by state to filter out information:
+ 		 
+	-   Overall Health of population as it relates to the Total Healthcare Cost
+    
+	-   HPI (Housing Price Index) as it relates to the overall health of a community( with in state and county)
+	
+	-   Correlation of Chronic Health variables and the number of superfund sites in a state and county
+	
+	-   Overall Health of a community(state/county) as it relates to the Air Quality
 
+	
+
+![image](https://github.com/CWCroghan/project-one/assets/119356389/799be624-54db-4ebd-8fac-3e33218f5669)
+
+ - and by county to filter out information
+ 
+![image](https://github.com/CWCroghan/project-one/assets/119356389/bb1d8f9b-9f77-43e6-97b0-6b4779223b09)
 
 
 ### Recommendations for Future Analysis:
