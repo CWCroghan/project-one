@@ -1,76 +1,72 @@
-> table <- read.csv(file='C:/Users/carry/BootCamp/project-one/Resources/City_envo_hpi.csv',check.names=F,stringsAsFactors = F)
-> 
-> summary(table)
-  stateabbr          placename           placefips         tractfips         place_tractid     
- Length:1378        Length:1378        Min.   :  15003   Min.   :1.073e+09   Length:1378       
- Class :character   Class :character   1st Qu.: 669074   1st Qu.:6.086e+09   Class :character  
- Mode  :character   Mode  :character   Median :2455500   Median :2.477e+10   Mode  :character  
-                                       Mean   :2604796   Mean   :2.585e+10                     
-                                       3rd Qu.:4260000   3rd Qu.:4.200e+10                     
-                                       Max.   :5613900   Max.   :5.602e+10                     
-                                                                                               
- population2010    insurance     highbloodpressure     cancer           asthma      
- Min.   : 50.0   Min.   : 2.40   Min.   : 5.30     Min.   : 0.700   Min.   : 5.600  
- 1st Qu.:171.0   1st Qu.:10.03   1st Qu.:25.10     1st Qu.: 4.200   1st Qu.: 8.400  
- Median :436.5   Median :14.70   Median :30.10     Median : 5.700   Median : 9.300  
- Mean   :461.3   Mean   :16.52   Mean   :31.96     Mean   : 6.096   Mean   : 9.574  
- 3rd Qu.:721.0   3rd Qu.:20.68   3rd Qu.:37.60     3rd Qu.: 7.400   3rd Qu.:10.400  
- Max.   :998.0   Max.   :52.90   Max.   :70.30     Max.   :22.300   Max.   :17.500  
-                                                                                    
-  heartdisease    annualcheckups      smokes      mentalhealthissues    latitude    
- Min.   : 0.300   Min.   :48.20   Min.   : 2.20   Min.   : 4.20      Min.   :21.28  
- 1st Qu.: 3.700   1st Qu.:64.60   1st Qu.:13.30   1st Qu.:10.90      1st Qu.:32.69  
- Median : 5.250   Median :68.60   Median :17.10   Median :13.15      Median :35.09  
- Mean   : 5.951   Mean   :68.99   Mean   :17.99   Mean   :13.72      Mean   :35.63  
- 3rd Qu.: 7.475   3rd Qu.:73.28   3rd Qu.:21.60   3rd Qu.:15.90      3rd Qu.:39.77  
- Max.   :35.800   Max.   :90.20   Max.   :50.30   Max.   :28.00      Max.   :61.22  
-                                                                                    
-   longitude         countyfips       State            StateAbbr            County         
- Min.   :-158.11   Min.   : 1073   Length:1378        Length:1378        Length:1378       
- 1st Qu.:-113.87   1st Qu.: 6085   Class :character   Class :character   Class :character  
- Median : -95.46   Median :24768   Mode  :character   Mode  :character   Mode  :character  
- Mean   : -97.79   Mean   :25852                                                           
- 3rd Qu.: -84.25   3rd Qu.:42003                                                           
- Max.   : -70.97   Max.   :56021                                                           
-                                                                                           
-   CountyFIPS        Asthma      AFHeartDisease       COPD         Depression     HeartFailure  
- Min.   : 1073   Min.   :11756   Min.   :16496   Min.   :17917   Min.   :13256   Min.   :21091  
- 1st Qu.: 6085   1st Qu.:20003   1st Qu.:23245   1st Qu.:23842   1st Qu.:18817   1st Qu.:27277  
- Median :24768   Median :21897   Median :25799   Median :26617   Median :21472   Median :28969  
- Mean   :25852   Mean   :22013   Mean   :25978   Mean   :26853   Mean   :21567   Mean   :29402  
- 3rd Qu.:42003   3rd Qu.:24088   3rd Qu.:29123   3rd Qu.:29123   3rd Qu.:24181   3rd Qu.:31545  
- Max.   :56021   Max.   :29531   Max.   :39191   Max.   :36853   Max.   :29419   Max.   :41829  
-                                                                                                
-  Hypertension   CoronaryArtery    Psychotic         Stroke        TotalCost     
- Min.   : 9744   Min.   :12301   Min.   :10450   Min.   :20140   Min.   :298209  
- 1st Qu.:13725   1st Qu.:18175   1st Qu.:18094   1st Qu.:29581   1st Qu.:407292  
- Median :15014   Median :20016   Median :22321   Median :32516   Median :453380  
- Mean   :15073   Mean   :20157   Mean   :22957   Mean   :33071   Mean   :453826  
- 3rd Qu.:16399   3rd Qu.:22287   3rd Qu.:26519   3rd Qu.:36881   3rd Qu.:498107  
- Max.   :19482   Max.   :26170   Max.   :36123   Max.   :47241   Max.   :598492  
-                                                                                 
-     tract                hpi          Place_TractID          SiteId     PM2.5_Exceptional
- Min.   :1.073e+09   Min.   :  73.17   Length:1378        Min.   :  11   Min.   :0        
- 1st Qu.:6.082e+09   1st Qu.: 268.31   Class :character   1st Qu.: 400   1st Qu.:0        
- Median :2.207e+10   Median : 391.08   Mode  :character   Median :1057   Median :0        
- Mean   :2.545e+10   Mean   : 498.69                      Mean   :1182   Mean   :0        
- 3rd Qu.:4.200e+10   3rd Qu.: 615.86                      3rd Qu.:1920   3rd Qu.:0        
- Max.   :5.602e+10   Max.   :2494.23                      Max.   :2595   Max.   :0        
- NA's   :60          NA's   :60                           NA's   :39     NA's   :39       
- PM2.5_ExceedCount   PM2.5_Max      Ozone_Exceptional Ozone_ExceedCount   Ozone_Max      
- Min.   : 0.000    Min.   : 11.80   Min.   :0         Min.   :  0.000   Min.   :0.05000  
- 1st Qu.: 0.000    1st Qu.: 21.80   1st Qu.:0         1st Qu.:  0.000   1st Qu.:0.07000  
- Median : 0.000    Median : 26.60   Median :0         Median :  2.000   Median :0.07600  
- Mean   : 1.382    Mean   : 33.74   Mean   :0         Mean   :  7.591   Mean   :0.07729  
- 3rd Qu.: 1.000    3rd Qu.: 39.60   3rd Qu.:0         3rd Qu.:  5.000   3rd Qu.:0.08000  
- Max.   :29.000    Max.   :231.60   Max.   :0         Max.   :112.000   Max.   :0.13600  
- NA's   :39        NA's   :39       NA's   :39        NA's   :39        NA's   :39       
-    sfcount      
- Min.   :0.0000  
- 1st Qu.:0.0000  
- Median :0.0000  
- Mean   :0.1703  
- 3rd Qu.:0.0000  
- Max.   :8.0000  
- NA's   :39      
-> 
+
+population2010,    insurance  ,   highbloodpressure,     cancer,          asthma
+Min.   : 50.0 ,  Min.   : 2.40,   Min.   : 5.30,     Min.   : 0.700,   Min.   : 5.600
+1st Qu.:171.0 ,  1st Qu.:10.03,   1st Qu.:25.10,     1st Qu.: 4.200,   1st Qu.: 8.400
+Median :436.5 ,  Median :14.70,   Median :30.10,     Median : 5.700,   Median : 9.300
+Mean   :461.3 ,  Mean   :16.52,   Mean   :31.96,     Mean   : 6.096,   Mean   : 9.574
+3rd Qu.:721.0 ,  3rd Qu.:20.68,   3rd Qu.:37.60,     3rd Qu.: 7.400,   3rd Qu.:10.400
+Max.   :998.0 ,  Max.   :52.90,   Max.   :70.30,     Max.   :22.300,   Max.   :17.500
+
+
+PM2.5_Exceptional,  PM2.5_ExceedCount,   PM2.5_Max   ,   Ozone_Exceptional, Ozone_ExceedCount,   Ozone_Max
+Min.   :0        ,  Min.   : 0.000   , Min.   : 11.80,   Min.   :0        , Min.   :  0.000  , Min.   :0.05000
+1st Qu.:0        ,  1st Qu.: 0.000   , 1st Qu.: 21.80,   1st Qu.:0        , 1st Qu.:  0.000  , 1st Qu.:0.07000
+Median :0        ,  Median : 0.000   , Median : 26.60,   Median :0        , Median :  2.000  , Median :0.07600
+Mean   :0        ,  Mean   : 1.382   , Mean   : 33.74,   Mean   :0        , Mean   :  7.591  , Mean   :0.07729
+3rd Qu.:0        ,  3rd Qu.: 1.000   , 3rd Qu.: 39.60,   3rd Qu.:0        , 3rd Qu.:  5.000  , 3rd Qu.:0.08000
+Max.   :0        ,  Max.   :29.000   , Max.   :231.60,   Max.   :0        , Max.   :112.000  , Max.   :0.13600
+NA's   :39       ,  NA's   :39       , NA's   :39    ,   NA's   :39       , NA's   :39       , NA's   :39
+
+
+
+heartdisease    annualcheckups      smokes      mentalhealthissues
+Min.   : 0.300   Min.   :48.20   Min.   : 2.20   Min.   : 4.20
+1st Qu.: 3.700   1st Qu.:64.60   1st Qu.:13.30   1st Qu.:10.90
+Median : 5.250   Median :68.60   Median :17.10   Median :13.15
+Mean   : 5.951   Mean   :68.99   Mean   :17.99   Mean   :13.72
+3rd Qu.: 7.475   3rd Qu.:73.28   3rd Qu.:21.60   3rd Qu.:15.90
+Max.   :35.800   Max.   :90.20   Max.   :50.30   Max.   :28.00
+
+CountyFIPS        Asthma      AFHeartDisease       COPD         Depression     HeartFailure
+Min.   : 1073   Min.   :11756   Min.   :16496   Min.   :17917   Min.   :13256   Min.   :21091
+1st Qu.: 6085   1st Qu.:20003   1st Qu.:23245   1st Qu.:23842   1st Qu.:18817   1st Qu.:27277
+Median :24768   Median :21897   Median :25799   Median :26617   Median :21472   Median :28969
+Mean   :25852   Mean   :22013   Mean   :25978   Mean   :26853   Mean   :21567   Mean   :29402
+3rd Qu.:42003   3rd Qu.:24088   3rd Qu.:29123   3rd Qu.:29123   3rd Qu.:24181   3rd Qu.:31545
+Max.   :56021   Max.   :29531   Max.   :39191   Max.   :36853   Max.   :29419   Max.   :41829
+
+Hypertension   CoronaryArtery    Psychotic         Stroke        TotalCost
+Min.   : 9744   Min.   :12301   Min.   :10450   Min.   :20140   Min.   :298209
+1st Qu.:13725   1st Qu.:18175   1st Qu.:18094   1st Qu.:29581   1st Qu.:407292
+Median :15014   Median :20016   Median :22321   Median :32516   Median :453380
+Mean   :15073   Mean   :20157   Mean   :22957   Mean   :33071   Mean   :453826
+3rd Qu.:16399   3rd Qu.:22287   3rd Qu.:26519   3rd Qu.:36881   3rd Qu.:498107
+Max.   :19482   Max.   :26170   Max.   :36123   Max.   :47241   Max.   :598492
+
+hpi
+Min.   :  73.17
+1st Qu.: 268.31
+Median : 391.08
+Mean   : 498.69
+3rd Qu.: 615.86
+Max.   :2494.23
+NA's   :60
+
+PM2.5_Exceptional  PM2.5_ExceedCount   PM2.5_Max      Ozone_Exceptional Ozone_ExceedCount   Ozone_Max
+Min.   :0          Min.   : 0.000    Min.   : 11.80   Min.   :0         Min.   :  0.000   Min.   :0.05000
+1st Qu.:0          1st Qu.: 0.000    1st Qu.: 21.80   1st Qu.:0         1st Qu.:  0.000   1st Qu.:0.07000
+Median :0          Median : 0.000    Median : 26.60   Median :0         Median :  2.000   Median :0.07600
+Mean   :0          Mean   : 1.382    Mean   : 33.74   Mean   :0         Mean   :  7.591   Mean   :0.07729
+3rd Qu.:0          3rd Qu.: 1.000    3rd Qu.: 39.60   3rd Qu.:0         3rd Qu.:  5.000   3rd Qu.:0.08000
+Max.   :0          Max.   :29.000    Max.   :231.60   Max.   :0         Max.   :112.000   Max.   :0.13600
+NA's   :39         NA's   :39        NA's   :39       NA's   :39        NA's   :39        NA's   :39
+
+sfcount
+Min.   :0.0000
+1st Qu.:0.0000
+Median :0.0000
+Mean   :0.1703
+3rd Qu.:0.0000
+Max.   :8.0000
+NA's   :39
+>

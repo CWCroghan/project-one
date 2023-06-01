@@ -55,6 +55,7 @@ The purpose of this analysis is to understand the correlation between environmen
 
 The datasets we are utilizing are as follows:-
 
+
   
 
 -  **500 Cities Data**
@@ -170,7 +171,6 @@ You can access our comprehensive dashboard by visiting the link [Dashboard](http
 
 **![](https://lh5.googleusercontent.com/jezt4oyUPWktqN21_0vaU-RdvVFC32DpQJPftiaLdNhIm1xp5VWtos4jLR5o9fx4VxJCPOD6Ad4jl8NOBva5cCa1wOvOYVyH0MFWXGRNWZetdNGsSnBa5E08llOnh4Q7kB8It0EIjpst1xgpWqyFuNGf=s2048)**
 ### Results
-
   
 
 
@@ -189,31 +189,6 @@ You can access our comprehensive dashboard by visiting the link [Dashboard](http
 
 One major area where we feel we could have improved our project is by taking more time to discover more data sets and factors that may influence housing prices. There are likely many variables we could not find data on handily, and that would probably be the best place to improve our project.
 
-  
-
-
-  
-
-  
-
-
-
-  
-
-
-
-  
-
-
-  
-
-  
-
-
-
-  
-
-  
 
 ### References
 
@@ -237,10 +212,18 @@ One major area where we feel we could have improved our project is by taking mor
 
 Slideshow: https://docs.google.com/presentation/d/16hQQiaqVirLmnhQqJrqOxvXS-a18GUJ2hBw7oJJt-j4/edit#slide=id.g245cf198de5_0_16
 
+| Data Description | Website | Filenames |
+| :---| :---| :---| 
+|Center for Medicare and Medicaid data 2017 | https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Chronic-Conditions/CC_Main | County_Table_Chronic_Conditions_Spending_2017 |
+|500 City Study 2017 data | https://www.cdc.gov/places/index.html | 500_Cities__Census_Tract-level_Data__GIS_Friendly_Format___2019_release.csv |
+|brownfields/superfund and Natural/Climate Change disasters | https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=%7BA6AB558B-2E03-47B6-B261-43341B9F6B67%7D | SF_CRSI_OLEM |
+|Air Monitoring 2017 | https://aqs.epa.gov/aqsweb/airdata/download_files.html#Annual | annual_conc_by_monitor_2017.csv |
+|Housing Price Index | https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx |HPI_AT_BDL_ZIP5.xlsx |
+
   
+Slideshow: https://docs.google.com/presentation/d/16hQQiaqVirLmnhQqJrqOxvXS-a18GUJ2hBw7oJJt-j4/edit#slide=id.g245cf198de5_0_16
 
 Tableau Dashboard: https://public.tableau.com/authoring/Project4_16854922280320/Project1#1
 
-  
-
 Amazon Web Services: project1.c4ay8x7sqcwl.us-east-2.rds.amazonaws.com
+

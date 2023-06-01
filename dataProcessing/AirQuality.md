@@ -1,7 +1,7 @@
 # Steps in Processing Air Quality Data
 
 1. Load 
-    read file -  annual_conc_by_monitor_2017.csv.csv into a dataFrame
+    read file -  annual_conc_by_monitor_2017.csv into a dataFrame
 2. Examine Polutates that were reported (Parameter Name)
 3. Drop unneed columns
 4. Pull out and transpose the Ozone data
