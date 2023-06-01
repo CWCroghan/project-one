@@ -202,9 +202,10 @@ One major area where we feel we could have improved our project is by taking mor
 |Housing Price Index | https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx |HPI_AT_BDL_ZIP5.xlsx |
 
   
-Slideshow: https://docs.google.com/presentation/d/16hQQiaqVirLmnhQqJrqOxvXS-a18GUJ2hBw7oJJt-j4/edit#slide=id.g245cf198de5_0_16
 
-Tableau Dashboard: https://public.tableau.com/authoring/Project4_16854922280320/Project1#1
+Tableau Viz (https://public.tableau.com/app/profile/johnte.williams/viz/Project5_16856518785170/Project1?publish=yes)
+
+Slideshow: https://docs.google.com/presentation/d/16hQQiaqVirLmnhQqJrqOxvXS-a18GUJ2hBw7oJJt-j4/edit#slide=id.g245cf198de5_0_16
 
 Amazon Web Services: project1.c4ay8x7sqcwl.us-east-2.rds.amazonaws.com
 
