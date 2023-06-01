@@ -1,7 +1,7 @@
 ﻿  
   
 
-## Environmental Pollution & Chronic Health Conditions: Uncovering the Connection
+# Environmental Pollution & Chronic Health Conditions: Uncovering the Connection
 
   
   
@@ -16,7 +16,7 @@
 
   
 
-### Overview
+## Overview
 
   
 
@@ -28,35 +28,26 @@ By examining the relationship between environmental pollution and the prevalence
 
   
 
-  
 
-### Purpose
-
+## Purpose
 The purpose of this analysis is to understand the correlation between environmental factors and chronic diseases in different cities and areas.
 
-  
-
-- We are trying to see a correlation between Environmental Factors and chronic diseases.
-
-- We can gain insights into the potential health implications of living in areas with higher environmental risks.
-
-- Do communities affected by multiple environmental stressors experience a higher rate of chronic diseases?
+ - We are trying to see a correlation between Environmental Factors and chronic diseases.
+ - We can gain insights into the potential health implications of living in areas with higher environmental risks.
+ - Do communities affected by multiple environmental stressors
+   experience a higher rate of chronic diseases?
+ - Are communities that experience elevated environmental stressors, and therefore higher than average rates of chronic disease, also negatively impacted from an economic perspective in the form lower property values?
 
   
 
-  
-
-### Data 
-
-
-
-
+## Data 
   
 
 The datasets we are utilizing are as follows:-
 
 
-  
+## Methods
+We utilized the below mentioned methods for data cleaning and preprocessing :
 
 -  **500 Cities Data**
 
@@ -93,23 +84,37 @@ The detailed step by step process for backup and restoration can be found here [
   
 ![image](https://github.com/CWCroghan/project-one/assets/119648166/f6403d73-e276-4811-bf23-3b4abc136c3c)
 
+
+## Results
+
+### Machine Learning
+In preprocessing, we used median housing price index from 2017 to classify each tract or census defined area as outperforming or underperforming the national median.
+
+The first attempt was using a logistical regression model with our chronic diseases as the independent variables.
+
+In a later iteration, as a result of a random forest analysis, we added the rates of fine particulate matter or PM2.5 and Ozone pollution to the model.
+
+Our initial model produced an accuracy score of 73%, with overperforming being correctly predicted 72% of the time and underperforming being correctly predicted 74% of the time.
+
+In the revised model, which added fine particulate matter and ozone to the independent variables, our model was able to achieve an accuracy score of 75%, with Overperforming being predicted correctly 78% of the time and underperforming being correctly predicted 73% of the time
+- Confusion Matrix
+
+![confusion_matrix_visual](https://github.com/CWCroghan/project-one/assets/119641907/22f909ca-c071-4b1c-b3f9-7c699ae22b36)
+
+- ROC Curve
+
+![roc_curve_0 795](https://github.com/CWCroghan/project-one/assets/119641907/b3f8148e-eb66-47b9-a520-fea6a669f013)
+
+Our ROC curve shows an area under curve of .795 which falls into the acceptable range.
+
   
 
 ### Technology used
 
 We utilized the below mentioned methods for data cleaning and preprocessing :
 
-  
-  
-
 1. Python
-
-  
-
 2. Pandas
-
-  
-
 3. Numpy
 4. R
 5. Tableau
@@ -117,20 +122,13 @@ We utilized the below mentioned methods for data cleaning and preprocessing :
 7. PostgreSQL
 
 For each dataset, we had a specific approach to the based on dataset's requirements. These approaches involved steps such as handling missing values, removing duplicates, standardizing data formats, and resolving inconsistencies. The links below provide information on each dataset cleaning approach.
-
-  
+ 
 
 [500 City Data](https://github.com/CWCroghan/project-one/blob/main/dataProcessing/500_City.md)
 
-  
-
 [Air Quality Data](https://github.com/CWCroghan/project-one/blob/main/dataProcessing/AirQuality.md)
 
-  
-
-[Chronic Condition Spending](https://github.com/CWCroghan/project-one/blob/main/dataProcessing/ChronicConditionsSpending.md)
-
-  
+[Chronic Condition Spending](https://github.com/CWCroghan/project-one/blob/main/dataProcessing/ChronicConditionsSpending.md) 
 
 [Superfund Sites Data](https://github.com/CWCroghan/project-one/blob/main/dataProcessing/Superfund.md)
 
@@ -173,17 +171,9 @@ You can access our comprehensive dashboard by visiting the link [Dashboard](http
 ### Results
   
 
-
-
-  
-
-  
-
 ### Recommendations for Future Analysis:
 
 -    We will delve deeper into machine learning models and refine them to improve their performance and achieve a more accurate and precise fitting model.
-
-
 
 #### [](https://github.com/misterrustia/Final_project#improvements-we-would-have-made)Improvements We Would Have Made:
 
