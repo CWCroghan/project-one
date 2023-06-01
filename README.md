@@ -162,11 +162,13 @@ You can access our comprehensive dashboard by visiting the link [Dashboard](http
 -   Select superfund site to  filter by the city and to see the chronic disease and total cost.
     
 -   Select on state and it will give you information on information based on county and HPI(Housing Price Index)
+-   
+![image](https://github.com/CWCroghan/project-one/assets/119356389/b6433e78-f291-4fc9-80c4-47145d9dde56)
 
 
  - Ability to select by state to filter out information
 
-**![](https://lh5.googleusercontent.com/jezt4oyUPWktqN21_0vaU-RdvVFC32DpQJPftiaLdNhIm1xp5VWtos4jLR5o9fx4VxJCPOD6Ad4jl8NOBva5cCa1wOvOYVyH0MFWXGRNWZetdNGsSnBa5E08llOnh4Q7kB8It0EIjpst1xgpWqyFuNGf=s2048)**
+
 
 ### Recommendations for Future Analysis:
 
