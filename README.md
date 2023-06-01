@@ -69,6 +69,7 @@ The datasets we are utilizing are as follows:-
 
 Several data processing operations were performed to enhance the quality and usability of the data. These operations included selecting relevant columns to extract specific data of interest, converting data types to ensure consistency, and reshaping the data to meet specific requirements. Duplicate records were identified and removed to improve data integrity. Foreign keys were created to establish relationships between tables, enabling efficient data linking and retrieval. Additionally, zip codes were mapped to Fips codes, county and state names were mapped to their respective Fips codes, and nearest points were calculated using latitude and longitude coordinates. These operations collectively aimed to improve data quality, facilitate analysis, and enable seamless integration with databases. Detailed documentation and instructions for implementing each operation are available for reference.
 
+![image](https://github.com/CWCroghan/project-one/assets/119648166/16116c2b-437a-4a47-b368-6b8a0af8a142)
 
 
   
@@ -88,6 +89,7 @@ The detailed step by step process for backup and restoration can be found here [
   A link for  [database creation script .](https://github.com/CWCroghan/project-one/blob/main/Database_Creation_script.sql)
 
   
+![image](https://github.com/CWCroghan/project-one/assets/119648166/f6403d73-e276-4811-bf23-3b4abc136c3c)
 
   
 
