@@ -1,6 +1,6 @@
 ﻿
 
-## Environmental Pollution & Chronic Health Conditions: Uncovering the Connection
+# Environmental Pollution & Chronic Health Conditions: Uncovering the Connection
 
 
 ![Environmental Pollution & Chronic Health Conditions: Uncovering the Connection](https://github.com/CWCroghan/project-one/blob/main/slide_1.jpg)
@@ -11,7 +11,7 @@
 
   
 
-### Overview
+## Overview
 
 Our project focuses on analyzing the correlation between environmental factors and chronic diseases in different cities and areas. We are using datasets such as the 500 Cities data, chronic conditions spending data, healthcare spending data, superfund data, and air quality data to assess the environmental impact on these locations.
 
@@ -19,17 +19,18 @@ By examining the relationship between environmental pollution and the prevalence
 
   
 
-### Purpose
+## Purpose
 The purpose of this analysis is to understand the correlation between environmental factors and chronic diseases in different cities and areas.
 
  - We are trying to see a correlation between Environmental Factors and chronic diseases.
  - We can gain insights into the potential health implications of living in areas with higher environmental risks.
  - Do communities affected by multiple environmental stressors
    experience a higher rate of chronic diseases?
+ - Are communities that experience elevated environmental stressors, and therefore higher than average rates of chronic disease, also negatively impacted from an economic perspective in the form lower property values?
 
   
 
-### Data
+## Data
 
 The datasets we are utilizing are as follows:-
 
@@ -40,7 +41,7 @@ The datasets we are utilizing are as follows:-
  - **Air Quality Data**
 
 
-### Database Design
+## Database Design
 We are organising processed datasets into our database  - **toxic_site_hazards_db**
 The data in this database is stored under 6 tables .We are working to normalize the data  as much as we can during the data cleaning phase.
 
@@ -48,7 +49,7 @@ The data in this database is stored under 6 tables .We are working to normalize 
 
   
 
-### Methods
+## Methods
 We utilized the below mentioned methods for data cleaning and preprocessing :
 
 
@@ -70,13 +71,31 @@ For each dataset ,we had a specific approach to the based on dataset's  requirem
 
   
 
-### Results
+## Results
 
-  We are still at a early stage of our project .We need to work on our data to be share our analysis.
+### Machine Learning
+In preprocessing, we used median housing price index from 2017 to classify each tract  or census defined area as outperforming or underperforming the national median.
+
+The first attempt was using a logistical regression model with our chronic diseases as the independent variables.
+
+In a later iteration, as a result of a random forest analysis, we added the rates of fine particulate matter or PM2.5 and Ozone pollution to the model.
+
+Our initial model produced an accuracy score of 73%, with overperforming being correctly predicted 72% of the time and underperforming being correctly predicted 74% of the time.
+
+In the revised model, which added fine particulate matter and ozone to the independent variables, our model was able to achieve an accuracy score of 75%, with Overperforming being predicted correctly 78% of the time and underperforming being correctly predicted 73% of the time
+- Confusion Matrix
+
+![confusion_matrix_visual](https://github.com/CWCroghan/project-one/assets/119641907/22f909ca-c071-4b1c-b3f9-7c699ae22b36)
+
+- ROC Curve
+
+![roc_curve_0 795](https://github.com/CWCroghan/project-one/assets/119641907/b3f8148e-eb66-47b9-a520-fea6a669f013)
+
+Our ROC curve shows an area under curve of .795 which falls into the acceptable range.
 
   
 
-### Future Work
+## Future Work
 
   For the next week, we are planning to work on our Machine Learning model -Description of preliminary data  
 preprocessing  
@@ -91,7 +110,7 @@ limitations and benefits
 
   
 
-### Team Members
+## Team Members
 
   
 
@@ -101,7 +120,7 @@ Carry Croghan, Johnte Williams, Pace Fegley, Smita Singh
 
   
 
-### Commits
+## Commits
 
   
 
@@ -125,7 +144,7 @@ Smita:
 
   
 
-### References
+## References
 
   
 
