@@ -35,9 +35,9 @@ The datasets we are utilizing are as follows:-
 
  - **500 Cities Data**
  - **Chronic Conditions Spending Data**
- - **Mediclaim and Medicare spending data**
  - **Superfund Sites Data**
  - **Air Quality Data**
+ - **Housing Price Index**
 
 
 ### Database Design
@@ -72,7 +72,7 @@ For each dataset, we had a specific approach to the based on dataset's  requirem
 
 ### Results
 
-  We are still at a early stage of our project .We need to work on our data to be share our analysis.
+  We are still at a early stage of our project. We need to work on our data to be share our analysis.
 
   
 
@@ -93,18 +93,13 @@ limitations and benefits
 
 ### Team Members
 
-  
-
 List the members of your team.
 
 Carry Croghan, Johnte Williams, Pace Fegley, Smita Singh
 
-  
-
 ### Commits
 
   
-
 List the commits made by each team member, including a brief description of what was accomplished in each commit.
 
   
@@ -127,10 +122,19 @@ Smita:
 
 ### References
 
+| Data Description | Website | Filenames |
+| :---| :---| :---| 
+|Center for Medicare and Medicaid data 2017 | https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Chronic-Conditions/CC_Main | County_Table_Chronic_Conditions_Spending_2017 |
+|500 City Study 2017 data | https://www.cdc.gov/places/index.html | 500_Cities__Census_Tract-level_Data__GIS_Friendly_Format___2019_release.csv |
+|brownfields/superfund and Natural/Climate Change disasters | https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=%7BA6AB558B-2E03-47B6-B261-43341B9F6B67%7D | SF_CRSI_OLEM |
+|Air Monitoring 2017 | https://aqs.epa.gov/aqsweb/airdata/download_files.html#Annual | annual_conc_by_monitor_2017.csv |
+|Housing Price Index | https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx |HPI_AT_BDL_ZIP5.xlsx |
+
   
+Slideshow: https://docs.google.com/presentation/d/16hQQiaqVirLmnhQqJrqOxvXS-a18GUJ2hBw7oJJt-j4/edit#slide=id.g245cf198de5_0_16
 
-Include any important references, such as links to your data and slide deck.
+Tableau Dashboard: https://public.tableau.com/authoring/Project4_16854922280320/Project1#1
 
-  
+Amazon Web Services: project1.c4ay8x7sqcwl.us-east-2.rds.amazonaws.com
 
-Make sure to update this file regularly throughout the project to reflect the current status of your work. By the end of this segment, this file should be detailed and comprehensive, providing a clear overview of your project and its goals.
+
