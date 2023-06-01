@@ -192,26 +192,6 @@ One major area where we feel we could have improved our project is by taking mor
 
 ### References
 
-  
-
-| Data Description | Website | Filenames |
-
-| :---| :---| :---|
-
-|Center for Medicare and Medicaid data 2017 | https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Chronic-Conditions/CC_Main | County_Table_Chronic_Conditions_Spending_2017 |
-
-|500 City Study 2017 data | https://www.cdc.gov/places/index.html | 500_Cities__Census_Tract-level_Data__GIS_Friendly_Format___2019_release.csv |
-
-|brownfields/superfund and Natural/Climate Change disasters | https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=%7BA6AB558B-2E03-47B6-B261-43341B9F6B67%7D | SF_CRSI_OLEM |
-
-|Air Monitoring 2017 | https://aqs.epa.gov/aqsweb/airdata/download_files.html#Annual | annual_conc_by_monitor_2017.csv |
-
-|Housing Price Index | https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx |HPI_AT_BDL_ZIP5.xlsx |
-
-  
-
-Slideshow: https://docs.google.com/presentation/d/16hQQiaqVirLmnhQqJrqOxvXS-a18GUJ2hBw7oJJt-j4/edit#slide=id.g245cf198de5_0_16
-
 | Data Description | Website | Filenames |
 | :---| :---| :---| 
 |Center for Medicare and Medicaid data 2017 | https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Chronic-Conditions/CC_Main | County_Table_Chronic_Conditions_Spending_2017 |
