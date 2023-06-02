@@ -99,13 +99,15 @@ Our initial model produced an accuracy score of 73%, with overperforming being c
 In the revised model, which added fine particulate matter and ozone to the independent variables, our model was able to achieve an accuracy score of 75%, with Overperforming being predicted correctly 78% of the time and underperforming being correctly predicted 73% of the time
 - Confusion Matrix
 
-![confusion_matrix_visual](https://github.com/CWCroghan/project-one/assets/119641907/22f909ca-c071-4b1c-b3f9-7c699ae22b36)
+![cm_visual_FINAL](https://github.com/CWCroghan/project-one/assets/119641907/06084ef7-8a32-498e-88c1-1fd6cda2cb8a)
+
 
 - ROC Curve
 
-![roc_curve_0 795](https://github.com/CWCroghan/project-one/assets/119641907/b3f8148e-eb66-47b9-a520-fea6a669f013)
+![roc_curve_FINAL_0 787](https://github.com/CWCroghan/project-one/assets/119641907/04f8a18f-96b9-468c-a081-a15ebb114d08)
 
-Our ROC curve shows an area under curve of .795 which falls into the acceptable range.
+
+Our ROC curve shows an area under curve of .787 which falls into the acceptable range.
 
   
 
@@ -148,6 +150,8 @@ For each dataset, we had a specific approach to the based on dataset's requireme
  Added:
  Fine particulate matter (PM2.5)
   Ozone
+  Insurance
+  Smoking
   
 
  - **Dependent Variable**
